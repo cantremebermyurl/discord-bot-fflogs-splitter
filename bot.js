@@ -35,6 +35,13 @@ bot.on('message', function(user, userID, channelID, message, event) {
                   message: 'Hello'
               });
           break;
+
        }
+   }
+   if (message === "oh no") {
+     bot.sendMessage({
+         to: channelID,
+         message: 'say it aint so'
+     });
    }
 });
