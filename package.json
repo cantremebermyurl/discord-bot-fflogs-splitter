@@ -1,0 +1,10 @@
+{
+  "name": "Test bot - do not break",
+  "version": "1.0.0",
+  "description": "hello world bot",
+  "main": "bot.js",
+  "author": "cantremembermyurl",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6"
+  }
+}
