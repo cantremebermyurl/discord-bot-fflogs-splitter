@@ -5,6 +5,9 @@
   "main": "bot.js",
   "author": "cantremembermyurl",
   "dependencies": {
-    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6"
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "get-json": "^1.0.1",
+    "node-fetch": "^2.6.0",
+    "snekfetch": "^4.0.4"
   }
 }
